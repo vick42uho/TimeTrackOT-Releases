@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "versionCode": 48,
+  "releaseTitle": "TimeTrack OT v1.1.0 (Build 48)",
+  "releaseNotes": "- เพิ่มระบบตรวจสอบและอัปเดตแอปพลิเคชันอัตโนมัติภายในแอป (In-App APK Updater)\n- ปรับปรุงฟอนต์ Sarabun ครบทุกน้ำหนักทั่วทั้งระบบ\n- ปรับปรุงหน้าต่างสถิติภาพรวมและการทำงานแบบออฟไลน์",
+  "publishedAt": "2026-09-27",
+  "apkFileName": "TimeTrackOT-v48.apk",
+  "apkFileSize": 123942879,
+  "apkDownloadUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/download/v1.1.0-b48/TimeTrackOT-v48.apk",
+  "releasePageUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/tag/v1.1.0-b48"
+}
