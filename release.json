@@ -1,11 +1,11 @@
 {
   "version": "1.1.0",
-  "versionCode": 50,
+  "versionCode": 51,
   "releaseTitle": "TimeTrack OT v1.1.0",
-  "releaseNotes": "- เพิ่มระบบคำนวณค่าแรง ค่าล่วงเวลา (OT) ค่ากะ เบี้ยขยัน และรอบตัดวิกเงินเดือน (วิกก่อน/วิกนี้/ทั้งเดือน) พร้อมสวิตช์เปิด-ปิดระบบ\n- เพิ่มระบบลงเวลาเข้า-ออกงานอัตโนมัติตามพิกัดที่ทำงาน (GPS Geofencing)\n- ปรับปรุงสถิติภาพรวม 14 ตัวชี้วัดแบบไม่ซ้ำซ้อน พร้อม 6 สถิติเชิงลึก (Smart Insights)\n- ปรับปรุงคู่มือการใช้งานแบบโต้ตอบ 12 ขั้นตอน และมาตรฐานหน้าต่างตั้งค่า BNA UI BottomSheet",
-  "publishedAt": "2026-09-27",
-  "apkFileName": "TimeTrackOT-v50.apk",
-  "apkFileSize": 124153726,
-  "apkDownloadUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/download/v1.1.0-b50/TimeTrackOT-v50.apk",
-  "releasePageUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/tag/v1.1.0-b50"
+  "releaseNotes": "- เพิ่มระบบตรวจจับรัศมีที่ทำงานและลงเวลา/แจ้งเตือนเบื้องหลังอัตโนมัติแม้ปิดแอปหรือล็อกหน้าจอ (True Background Geofencing)\n- เพิ่มการ์ดตั้งค่าสิทธิ์ตำแหน่งเป็น 'อนุญาตตลอดเวลา' (Allow all the time) ในหน้าตั้งค่า GPS\n- เพิ่มระบบคำนวณค่าแรง ค่ากะ เบี้ยขยัน และรอบตัดวิกเงินเดือน พร้อมสวิตช์เปิด-ปิดระบบ\n- ปรับปรุงสถิติภาพรวม 14 ตัวชี้วัด และมาตรฐานหน้าต่างตั้งค่า BNA UI BottomSheet",
+  "publishedAt": "2026-09-28",
+  "apkFileName": "TimeTrackOT-v51.apk",
+  "apkFileSize": 124185334,
+  "apkDownloadUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/download/v1.1.0-b51/TimeTrackOT-v51.apk",
+  "releasePageUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/tag/v1.1.0-b51"
 }
