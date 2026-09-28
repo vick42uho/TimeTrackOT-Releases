@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.1",
   "versionCode": 51,
-  "releaseTitle": "TimeTrack OT v1.1.0",
+  "releaseTitle": "TimeTrack OT v1.2.1",
   "releaseNotes": "- เพิ่มระบบตรวจจับรัศมีที่ทำงานและลงเวลา/แจ้งเตือนเบื้องหลังอัตโนมัติแม้ปิดแอปหรือล็อกหน้าจอ (True Background Geofencing)\n- เพิ่มการ์ดตั้งค่าสิทธิ์ตำแหน่งเป็น 'อนุญาตตลอดเวลา' (Allow all the time) ในหน้าตั้งค่า GPS\n- เพิ่มระบบคำนวณค่าแรง ค่ากะ เบี้ยขยัน และรอบตัดวิกเงินเดือน พร้อมสวิตช์เปิด-ปิดระบบ\n- ปรับปรุงสถิติภาพรวม 14 ตัวชี้วัด และมาตรฐานหน้าต่างตั้งค่า BNA UI BottomSheet",
   "publishedAt": "2026-09-28",
   "apkFileName": "TimeTrackOT-v51.apk",
   "apkFileSize": 124185334,
-  "apkDownloadUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/download/v1.1.0-b51/TimeTrackOT-v51.apk",
-  "releasePageUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/tag/v1.1.0-b51"
+  "apkDownloadUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/download/v1.2.1-b51/TimeTrackOT-v51.apk",
+  "releasePageUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/tag/v1.2.1-b51"
 }
