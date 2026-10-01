@@ -1,11 +1,11 @@
 {
-  "version": "1.2.4",
-  "versionCode": 54,
-  "releaseTitle": "TimeTrack OT v1.2.4",
-  "releaseNotes": "อัปเกรดระบบแจ้งเตือนอัปเดตเวอร์ชันใหม่ทั่วทั้งแอป (Home Alert Banner & Settings Amber Badge) รองรับการเปิดใช้งานบนเว็บโดยปราศจาก CORS error พร้อมระบบลงเวลาอัตโนมัติด้วยพิกัด GPS ขณะหน้าจอล็อค (Lock-Screen Auto Check-In) และระบบกู้คืนนาฬิกาปลุกอัจฉริยะ",
+  "version": "1.2.5",
+  "versionCode": 55,
+  "releaseTitle": "TimeTrack OT v1.2.5",
+  "releaseNotes": "- ระบบลงเวลาอัตโนมัติด้วย GPS (Lock-Screen & Headless): ลงทะเบียน Task ที่ Entry Point แรกของแอป (index.ts) ทำงานสมบูรณ์ 100% แม้ปิดแอปหรือหน้าจอล็อค\n- รองรับ Dual Enter & Exit Geofencing: เช็คอินอัตโนมัติเมื่อถึงที่ทำงาน และเช็คเอาท์อัตโนมัติเมื่อออกจากที่ทำงานหลังเลิกงาน\n- ขยาย Active Window ให้ครอบคลุมตลอดเวลางาน รองรับการเข้างานสายไม่โดนตัดสิทธิ์\n- เพิ่มชิปสถานะ GPS แบบเรียลไทม์บนการ์ดกะการทำงานวันนี้ (Dashboard)",
   "publishedAt": "2026-10-01",
-  "apkFileName": "TimeTrackOT-v54.apk",
-  "apkFileSize": 124197930,
-  "apkDownloadUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/download/v1.2.4-b54/TimeTrackOT-v54.apk",
-  "releasePageUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/tag/v1.2.4-b54"
+  "apkFileName": "TimeTrackOT-v55.apk",
+  "apkFileSize": 124200266,
+  "apkDownloadUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/download/v1.2.5-b55/TimeTrackOT-v55.apk",
+  "releasePageUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/tag/v1.2.5-b55"
 }
