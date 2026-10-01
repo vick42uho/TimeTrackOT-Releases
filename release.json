@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3",
-  "versionCode": 53,
-  "releaseTitle": "TimeTrack OT v1.2.3",
-  "releaseNotes": "แก้ไขและเพิ่มระบบ AlarmBootReceiver กู้คืนนาฬิกาปลุกวันทำงาน (Smart Workday Alarm) อัตโนมัติเมื่อเครื่องรีบูตหรือมีการอัปเดตเวอร์ชันแอป พร้อมบันทึกคิวปลุกแบบ Native SharedPreferences และแจ้งเตือนสถานะการซิงก์ปลุกเมื่อแก้ไขวันหยุด/วันลา",
+  "version": "1.2.4",
+  "versionCode": 54,
+  "releaseTitle": "TimeTrack OT v1.2.4",
+  "releaseNotes": "อัปเกรดระบบแจ้งเตือนอัปเดตเวอร์ชันใหม่ทั่วทั้งแอป (Home Alert Banner & Settings Amber Badge) รองรับการเปิดใช้งานบนเว็บโดยปราศจาก CORS error พร้อมระบบลงเวลาอัตโนมัติด้วยพิกัด GPS ขณะหน้าจอล็อค (Lock-Screen Auto Check-In) และระบบกู้คืนนาฬิกาปลุกอัจฉริยะ",
   "publishedAt": "2026-10-01",
-  "apkFileName": "TimeTrackOT-v53.apk",
-  "apkFileSize": 124193530,
-  "apkDownloadUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/download/v1.2.3-b53/TimeTrackOT-v53.apk",
-  "releasePageUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/tag/v1.2.3-b53"
+  "apkFileName": "TimeTrackOT-v54.apk",
+  "apkFileSize": 124197930,
+  "apkDownloadUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/download/v1.2.4-b54/TimeTrackOT-v54.apk",
+  "releasePageUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/tag/v1.2.4-b54"
 }
