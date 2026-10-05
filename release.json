@@ -1,11 +1,11 @@
 {
-  "version": "1.2.5",
-  "versionCode": 55,
-  "releaseTitle": "TimeTrack OT v1.2.5",
-  "releaseNotes": "- ระบบลงเวลาอัตโนมัติด้วย GPS (Lock-Screen & Headless): ลงทะเบียน Task ที่ Entry Point แรกของแอป (index.ts) ทำงานสมบูรณ์ 100% แม้ปิดแอปหรือหน้าจอล็อค\n- รองรับ Dual Enter & Exit Geofencing: เช็คอินอัตโนมัติเมื่อถึงที่ทำงาน และเช็คเอาท์อัตโนมัติเมื่อออกจากที่ทำงานหลังเลิกงาน\n- ขยาย Active Window ให้ครอบคลุมตลอดเวลางาน รองรับการเข้างานสายไม่โดนตัดสิทธิ์\n- เพิ่มชิปสถานะ GPS แบบเรียลไทม์บนการ์ดกะการทำงานวันนี้ (Dashboard)",
-  "publishedAt": "2026-10-01",
-  "apkFileName": "TimeTrackOT-v55.apk",
-  "apkFileSize": 124200266,
-  "apkDownloadUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/download/v1.2.5-b55/TimeTrackOT-v55.apk",
-  "releasePageUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/tag/v1.2.5-b55"
+  "version": "1.2.6",
+  "versionCode": 56,
+  "releaseTitle": "TimeTrack OT v1.2.6",
+  "releaseNotes": "- แก้ไขปัญหาลงเวลาอัตโนมัติขณะอยู่บ้าน (Anti-False-Positive Engine & Double-Verification Guard)\n- ป้องกันการใช้พิกัด Geofence Region แทนพิกัดเครื่องจริงใน Background Task บังคับดึงพิกัดจาก High-Accuracy GPS เท่านั้น\n- เพิ่มการตรวจสอบระดับความแม่นยำ (Accuracy Threshold) ป้องกันสัญญาณหลุดลอยจาก Cell Tower/Wi-Fi ที่คลาดเคลื่อนสูง\n- เพิ่มระบบ Real-Time Confirmation Fix ยืนยันพิกัดสดและระยะห่างจริงก่อนบันทึกเวลาลง SQLite ทุกครั้ง\n- ตัดแคชตำแหน่งเก่าจากวันก่อนๆ ป้องกันระบบจำตำแหน่งที่ทำงานเดิมขณะเปิดแอปที่บ้าน",
+  "publishedAt": "2026-10-05",
+  "apkFileName": "TimeTrackOT-v56.apk",
+  "apkFileSize": 124210798,
+  "apkDownloadUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/download/v1.2.6-b56/TimeTrackOT-v56.apk",
+  "releasePageUrl": "https://github.com/vick42uho/TimeTrackOT-Releases/releases/tag/v1.2.6-b56"
 }
